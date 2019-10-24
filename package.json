@@ -2,17 +2,17 @@
   "name": "devconnection",
   "version": "1.0.0",
   "description": "Social network for developers",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server",
     "server": "nodemon server"
-    
   },
   "author": "Sunghoon Ahn",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.2.3",
+    "core-util-is": "^1.0.2",
     "express": "^4.17.1",
     "express-validator": "^6.2.0",
     "gravatar": "^1.8.0",
