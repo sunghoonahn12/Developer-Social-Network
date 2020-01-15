@@ -14,16 +14,12 @@ https://stark-shelf-10515.herokuapp.com/
 * Front End
 
 React
-
 Redux
-
 Bootstrap 4
 
 * Back End
 
 Node.js
-
 Express
-
 MongoDB
 
