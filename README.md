@@ -1,4 +1,4 @@
-# Devloper Social Network
+# Developer Social Network
 This is a social network app for developers to share and interact.
 
 https://stark-shelf-10515.herokuapp.com/
