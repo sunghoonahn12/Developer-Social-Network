@@ -11,12 +11,12 @@ https://stark-shelf-10515.herokuapp.com/
 * Leave a comment on post
 
 # Technologies
-##Front End
+## Front End
 * React
 * Redux
 * Bootstrap 4
 
-##Back End
+## Back End
 * Node.js
 * Express
 * MongoDB
